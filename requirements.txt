@@ -1,6 +1,0 @@
-flask
-requests
-feedparser
-apscheduler
-tweepy
-beautifulsoup4
